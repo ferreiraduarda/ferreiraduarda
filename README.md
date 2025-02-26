@@ -1,10 +1,10 @@
-# Sobre Mim
+## Sobre Mim
 
 Olá, me chamo Maria Eduarda, tenho 16 anos, e sou de São Paulo, capital. Gosto de cachorros, amo séries e livros.
 
 ## Formação Acadêmica
 
-Cursando o Itinerário de Formação do Novo Ensino Médio em Desenvolvimento de Sistemas.
+Cursando o Itinerário de Formação do Novo Ensino Médio de Desenvolvimento de Sistemas.
 
 ## Faculdades que eu cursaria
 * Direito

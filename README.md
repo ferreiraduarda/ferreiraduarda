@@ -1,6 +1,6 @@
 ## Sobre Mim
 
-Olá, me chamo Maria Eduarda, tenho 16 anos, e sou de São Paulo, capital. Gosto de cachorros, amo séries e livros.
+Olá, me chamo Maria Eduarda, tenho 16 anos, e sou de São Paulo, capital.   Sou cristã, gosto de cachorros, amo séries e livros.
 
 ## Formação Acadêmica
 
